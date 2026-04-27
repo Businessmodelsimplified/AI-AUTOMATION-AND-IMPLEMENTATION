@@ -149,7 +149,7 @@ WHY DOES ARCHITECTURE MATTER?
 Most "AI tools" address Layer 3 and ignore everything else. That is why they impress in a demo and fail in production.
 I build all six layers so the system actually works when your team depends on it.
 
-===================================================
+======================================
 LIVE PROJECTS
 ==================================================
 
@@ -167,7 +167,7 @@ Updated weekly as new builds are completed.
       Eliminates hours spent hunting through internal documents
       Status: Day 21 — Coming Soon
 
-=================================================
+======================================
 FULL TECH STACK
 =================================================
 
@@ -189,7 +189,7 @@ FULL TECH STACK
   Business Tool Integration
   Slack · Notion · HubSpot · Airtable
 
-=================================================
+======================================
 HOW AN ENGAGEMENT WORKS
 =================================================
 
@@ -221,7 +221,7 @@ No systems your team cannot operate.
   Your team can operate and understand the system independently.
   You are never dependent on me to keep the lights on.
 
-==============================================
+======================================
 IS THIS YOU?
 =============================================
 
@@ -240,7 +240,7 @@ IS THIS YOU?
 
 If you are in the left column — you are ready.
 
-============================================
+======================================
 START HERE: FREE 60-MINUTE WORKFLOW AUDIT
 =============================================
 
