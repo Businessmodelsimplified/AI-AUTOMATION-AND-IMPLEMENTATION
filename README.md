@@ -116,34 +116,33 @@ MY 6-LAYER SYSTEM ARCHITECTURE
 Every system I build follows this architecture.
 
 This is why my systems work in production when others fail in the transition from demo to reality.
-
-  +-------------------------------------------------+
-          THE AUTOMATION STACK                      |
-  +-------------------------------------------------+
++---------------------------------------+
+          THE AUTOMATION STACK                 |
+  +----------------------------------------------+
   |             LAYER 5 — INTERFACE       
-            What your team actually sees          |
-  |Dashboard · Slack · Chatbot · Email · Custom UI                 |
-  +---------------------------------------------------+
+            What your team actually sees      |
+  |Dashboard · Slack · Chatbot · Email · Custom UI |
+  +-----------------------------------------------+
                 LAYER 4 — ORCHESTRATION   
-         Multi-step reasoning coordinator      |
-  | LangChain · LlamaIndeX ·CrewAI                                 |
-  +---------------------------------------------------+
+         Multi-step reasoning coordinator  |
+  | LangChain · LlamaIndeX ·CrewAI     |
+  +-----------------------------------------------+
   |             LAYER 3 — AI INTELLIGENCE  
            Where analysis and decisions happen   |
-  |  GPT-4 · Claude. Gemini                                         |
-  +---------------------------------------------------+
+  |  GPT-4 · Claude. Gemini                      |
+  +---------------------------------------------+
   |             LAYER 2 — MEMORY          
            Knowledge base the AI searches        |
-  |  Pinecone · Supabase                                             |
-  +---------------------------------------------------+
+  |  Pinecone · Supabase                         |
+  +---------------------------------------------+
   |             LAYER 1 — AUTOMATION      
            Triggers that start the workflow      |
-  |  Make.com · n8n · Zapier · Activepieces                          |
-  +---------------------------------------------------+
+  |  Make.com · n8n · Zapier · Activepieces     |
+  +---------------------------------------------+
   |             LAYER 0 — DATA            
-           Where your business data lives        |
-  |  PDFs · Emails · Databases · Forms · APIs                        |
-  +---------------------------------------------------+
+           Where your business data lives    |
+  |  PDFs · Emails · Databases · Forms · APIs     |
+  +----------------------------------------------+
 
 WHY DOES ARCHITECTURE MATTER?
 
