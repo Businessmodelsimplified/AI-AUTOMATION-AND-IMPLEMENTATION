@@ -1,7 +1,7 @@
-=============================================
+==========================================
 ELVIS JUSTUS
 AI Automation & Implementation Engineer
-=======================================================
+==========================================
 
 You are losing 20 to 60 hours every week not because your team is slow but because the work was never meant for humans because it seems to much and require too much monitoring work. 
 
@@ -11,9 +11,9 @@ EMAIL     : elvisjustus0266@gmail.com
 LINKEDIN  : https://www.linkedin.com/in/justuschemist
 UPWORK    : https://www.upwork.com/freelancers/~0171961655cd0a0a8d
 
-================================================================================
+==========================================
 THE PROBLEM NO ONE TALKS ABOUT LOUDLY ENOUGH
-================================================================================
+==========================================
 
 Somewhere in your organization right now, a smart, expensive human being
 is copy-pasting data between two systems.
@@ -26,9 +26,9 @@ This is not a people problem. It is a systems problem — and it has a very prec
 
 I build that solution for businesses and people like you.
 
-================================================================================
+============================================
 WHAT I ACTUALLY DO
-================================================================================
+===========================================
 
 I do not sell chatbots. I do not demo prototypes and disappear.
 
@@ -37,10 +37,10 @@ and run reliably in production — week after week.
 
 The result is not just time and resources saved. It is your best people finally working on work only they can do and enjoy doing.
 
--------------------------------------------------------
+--------------------------------------------
 
 IF YOUR TEAM DOES THIS... I BUILD A SYSTEM THAT DOES IT PERFECTLY INSTEAD.
--------------------------------------------------------
+--------------------------------------------
 Manually reviews documents         AI reads, extracts,flags & routes instantly
 
 Sorts and replies to same emails   AI classifies
@@ -52,18 +52,18 @@ Answers the same support questions AI handles Tier 1 at zero marginal cost
 
 Pulls together reports manually    Automated intelligence surfaces right data
 
-=======================================================
+=============================================
 INDUSTRIES I SERVE AND WHY SPECIALIZATION MATTERS
-=======================================================
+=============================================
 
 Most automation vendors build generic systems which I don't.
 
 I work exclusively in three verticals because the workflows, the compliance requirements, and the failure modes are completely different in each and
 getting it wrong in any of them is expensive.
 
--------------------------------------------------------
+--------------------------------------------
 PHARMACEUTICAL — Where a workflow error is not just costly, it is regulated.
--------------------------------------------------------
+---------------------------------------------
 
   - Compliance monitoring
     AI that watches for regulatory drift before it becomes a violation.
@@ -77,9 +77,9 @@ PHARMACEUTICAL — Where a workflow error is not just costly, it is regulated.
   - Lab workflow automation
     Trigger-based systems that eliminate manual handoffs between teams.
 
--------------------------------------------------------
+------------------------------------------------
 HEALTH & WELLNESS — Where scale is the bottleneck, not talent.
--------------------------------------------------------
+----------------------------------------------
 
   - E-commerce automation
     Order flows, inventory alerts and customer journeys running without human intervention.
@@ -93,9 +93,9 @@ HEALTH & WELLNESS — Where scale is the bottleneck, not talent.
   - Product knowledge assistants
     AI that knows your entire catalog and answers customer questions with precision.
 
--------------------------------------------------------
+---------------------------------------------------
 SAAS — Where support costs scale with growth if you let them.
--------------------------------------------------------
+---------------------------------------------------
 
   - Customer support automation
     Tier 1 resolution without a ticket queue and without added headcount.
@@ -109,17 +109,17 @@ SAAS — Where support costs scale with growth if you let them.
   - CRM workflow automation
     HubSpot, Airtable, Notion — connected, automated always current.
 
-=======================================================
+==================================================
 MY 6-LAYER SYSTEM ARCHITECTURE
-=======================================================
+=================================================
 
 Every system I build follows this architecture.
 
 This is why my systems work in production when others fail in the transition from demo to reality.
 
-  +---------------------------------------------------+
-          THE AUTOMATION STACK                        |
-  +---------------------------------------------------+
+  +-------------------------------------------------+
+          THE AUTOMATION STACK                      |
+  +-------------------------------------------------+
   |             LAYER 5 — INTERFACE       
             What your team actually sees          |
   |Dashboard · Slack · Chatbot · Email · Custom UI                 |
@@ -150,9 +150,9 @@ WHY DOES ARCHITECTURE MATTER?
 Most "AI tools" address Layer 3 and ignore everything else. That is why they impress in a demo and fail in production.
 I build all six layers so the system actually works when your team depends on it.
 
-=======================================================
+===================================================
 LIVE PROJECTS
-=======================================================
+==================================================
 
 Updated weekly as new builds are completed.
 
@@ -168,9 +168,9 @@ Updated weekly as new builds are completed.
       Eliminates hours spent hunting through internal documents
       Status: Day 21 — Coming Soon
 
-=======================================================
+=================================================
 FULL TECH STACK
-=======================================================
+=================================================
 
   Automation Platforms
   Make.com · n8n · Zapier · Activepieces
@@ -190,41 +190,41 @@ FULL TECH STACK
   Business Tool Integration
   Slack · Notion · HubSpot · Airtable
 
-=======================================================
+=================================================
 HOW AN ENGAGEMENT WORKS
-=======================================================
+=================================================
 
 No long retainers.
 No scope creep.
 No systems your team cannot operate.
 
   STEP 1 — WORKFLOW DISCOVERY
-  -----------------------------------------------------
+  -------------------------------------------------
   I spend time understanding your actual operations — not a surface survey. I identify where the highest-ROI automation opportunities are hiding before designing anything.
 
   STEP 2 — ARCHITECTURE DESIGN
-  -----------------------------------------------------
+  -----------------------------------------------
   You receive a precise document showing every layer of the system, every tool selected, every integration required and expected outcomes — before a single line of code is written.
 
   STEP 3 — IMPLEMENTATION
-  -----------------------------------------------------
+  -----------------------------------------------
   I build and integrate the system into your existing tools.
   Your team does not change how they work.
   AI meets them where they are.
 
   STEP 4 — TESTING & OPTIMIZATION
-  -----------------------------------------------------
+  ----------------------------------------------
   Every system is stress-tested against real edge cases — not ideal conditions. It works before it is yours.
 
   STEP 5 — HANDOFF & DOCUMENTATION
-  -----------------------------------------------------
+  ----------------------------------------------
   Full documentation written for non-technical stakeholders.
   Your team can operate and understand the system independently.
   You are never dependent on me to keep the lights on.
 
-=======================================================
+==============================================
 IS THIS YOU?
-=======================================================
+=============================================
 
   STRONG FIT                            NOT A FIT
   ---------------------------------  ---------------
@@ -241,9 +241,9 @@ IS THIS YOU?
 
 If you are in the left column — you are ready.
 
-=======================================================
+============================================
 START HERE: FREE 60-MINUTE WORKFLOW AUDIT
-=======================================================
+=============================================
 
 If your team spends more than 10 hours per week on tasks that follow a repeatable pattern — you are a strong candidate for AI automation.
 
@@ -255,16 +255,16 @@ What you walk away with:
 
 No cost. No obligation.
 
--------------------------------------------------------
+---------------------------------------------
 
   EMAIL     : elvisjustus0266@gmail.com
   LINKEDIN  : https://www.linkedin.com/in/justuschemist
   UPWORK    : https://www.upwork.com/freelancers/~0171961655cd0a0a8d
 
-=======================================================
+==============================================
 
   The hours your team spends on repetitive work are not just lost time.
   They are lost decisions, lost innovations and lost competitive ground.
   That is what AI automation gives back.
 
-=======================================================
+===========================================
