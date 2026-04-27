@@ -26,7 +26,7 @@ This is not a people problem. It is a systems problem — and it has a very prec
 
 I build that solution for businesses and people like you.
 
-================================
+==================================
 WHAT I ACTUALLY DO
 ===========================================
 
