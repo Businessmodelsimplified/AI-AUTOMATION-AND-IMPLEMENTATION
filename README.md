@@ -1,7 +1,7 @@
 ======================================
 ELVIS JUSTUS
 AI Automation & Implementation Engineer
-==========================================
+======================================
 
 You are losing 20 to 60 hours every week not because your team is slow but because the work was never meant for humans because it seems to much and require too much monitoring work. 
 
@@ -11,9 +11,9 @@ EMAIL     : elvisjustus0266@gmail.com
 LINKEDIN  : https://www.linkedin.com/in/justuschemist
 UPWORK    : https://www.upwork.com/freelancers/~0171961655cd0a0a8d
 
-==========================================
+====================================
 THE PROBLEM NO ONE TALKS ABOUT LOUDLY ENOUGH
-==========================================
+===================================
 
 Somewhere in your organization right now, a smart, expensive human being
 is copy-pasting data between two systems.
@@ -26,7 +26,7 @@ This is not a people problem. It is a systems problem — and it has a very prec
 
 I build that solution for businesses and people like you.
 
-============================================
+================================
 WHAT I ACTUALLY DO
 ===========================================
 
