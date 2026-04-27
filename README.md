@@ -52,9 +52,9 @@ Answers the same support questions AI handles Tier 1 at zero marginal cost
 
 Pulls together reports manually    Automated intelligence surfaces right data
 
-=============================================
+======================================
 INDUSTRIES I SERVE AND WHY SPECIALIZATION MATTERS
-=============================================
+==============================
 
 Most automation vendors build generic systems which I don't.
 
@@ -109,7 +109,7 @@ SAAS — Where support costs scale with growth if you let them.
   - CRM workflow automation
     HubSpot, Airtable, Notion — connected, automated always current.
 
-==================================================
+======================================
 MY 6-LAYER SYSTEM ARCHITECTURE
 =================================================
 
