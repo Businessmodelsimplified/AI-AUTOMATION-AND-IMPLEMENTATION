@@ -18,12 +18,25 @@ import streamlit as st
 from openai import OpenAI
 import os
 
+# Works on Streamlit Cloud (reads from Secrets)
+# AND works locally (reads from .env file)
 try:
     api_key = st.secrets["OPENAI_API_KEY"]
-except:
+except Exception:
     from dotenv import load_dotenv
     load_dotenv(dotenv_path=r"C:\Users\pc\ai-engineering\.env")
     api_key = os.getenv("OPENAI_API_KEY")
+
+# Final safety check
+if not api_key:
+    st.error("""
+    ⚠️ **API Key Missing**
+    
+    If you are the developer:
+    - **Streamlit Cloud:** Add OPENAI_API_KEY in App Settings → Secrets
+    - **Local:** Add OPENAI_API_KEY to your .env file
+    """)
+    st.stop()
 
 client = OpenAI(api_key=api_key)
 
