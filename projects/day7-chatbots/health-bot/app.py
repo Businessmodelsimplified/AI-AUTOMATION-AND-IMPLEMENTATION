@@ -448,14 +448,17 @@ if user_input:
             "🏥 Nairobi Hospital: **+254 20 284 5000**\n"
             "💊 Poison Control: **+254 20 272 2000**"
         )
-    with st.chat_message("assistant", avatar="🌿"):
+with st.chat_message("assistant", avatar="🌿"):
         with st.spinner("Zuri is typing..."):
+            optimised_history = get_optimised_messages(
+                st.session_state.health_messages
+            )
             response = client.chat.completions.create(
                 model="gpt-4o-mini",
                 messages=[
                     {"role": "system", "content": SYSTEM_PROMPT}
-                ] + st.session_state.health_messages,
-                max_tokens=300,
+                ] + optimised_history,
+                max_tokens=400,
                 temperature=0.7
             )
             reply = response.choices[0].message.content
@@ -463,13 +466,13 @@ if user_input:
         detected_category = log_conversation(user_input, reply)
         
 
-    st.session_state.health_messages.append({
+st.session_state.health_messages.append({
         "role": "assistant", "content": reply
     })
     
     # ── LEAD CAPTURE FLOW ─────────────────────────────────────
     # Stage 1: Detect purchase intent and prompt for details
-    if (detect_purchase_intent(user_input) and
+if (detect_purchase_intent(user_input) and
             st.session_state.lead_capture_stage is None and
             not st.session_state.get("lead_captured")):
 
@@ -496,8 +499,7 @@ if user_input:
             "content": capture_message
         })
 
-    # Stage 2: Receive their name
-    elif st.session_state.lead_capture_stage == "prompted":
+    # Stage 2: Receive their name    elif st.session_state.lead_capture_stage == "prompted":
 
         # Check if this message has contact info
         contact_found = detect_contact_info(user_input)
@@ -720,6 +722,34 @@ with st.sidebar:
             mime="application/json",
             use_container_width=True
         )
+        # ── TOKEN COST ESTIMATOR ──────────────────────────────────────
+st.markdown("---")
+st.markdown("### 💰 Cost Tracker")
+
+message_count = len(st.session_state.health_messages)
+# Rough estimate: 150 tokens per message exchange
+estimated_tokens = message_count * 150
+# gpt-4o-mini cost: $0.00015 per 1K input tokens
+estimated_cost_usd = (estimated_tokens / 1000) * 0.00015
+estimated_cost_kes = estimated_cost_usd * 130
+
+col_cost1, col_cost2 = st.columns(2)
+with col_cost1:
+    st.metric(
+        "Est. tokens",
+        f"{estimated_tokens:,}"
+    )
+with col_cost2:
+    st.metric(
+        "Est. cost",
+        f"KES {estimated_cost_kes:.4f}"
+    )
+
+st.markdown(
+    f"*At this rate, 1,000 conversations "
+    f"costs approximately "
+    f"KES {estimated_cost_kes * 1000:.2f}*"
+)
 
 st.markdown("""
 ---
